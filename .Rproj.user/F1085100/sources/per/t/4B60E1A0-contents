@@ -1,0 +1,24 @@
+---
+title: "The Evolution of Data Science"
+author: "R. C. Alvarado"
+format: revealjs
+editor: visual
+---
+
+# Introduction
+
+-   How many in the audience have a degree in data science?
+
+-   Why do we use the category "data science" today?
+
+# 2008
+
+```{mermaid}
+flowchar LR
+
+    A[AFCRL]
+    B[US Gov]
+    C[CODATA]
+
+    A --> B --> C
+```

@@ -1,0 +1,24 @@
+digraph G {
+
+    rankdir=LR
+    node [shape="rect"]
+
+    A [label="AFCRL" group="A"]
+    C [label="CODATA" group="A"]
+    B [label="US Gov" group="A"]
+    N [label="Peter Naur" group="B"]
+
+    A -> B -> C
+
+    node [shape=plaintext]
+    edge [style=invis]
+    
+    1964 -> 1966 -> 1968 -> 1972
+
+    {rank=same;1964; A}
+    {rank=same;1968; C}
+    {rank=same;1972; N}
+
+
+
+}

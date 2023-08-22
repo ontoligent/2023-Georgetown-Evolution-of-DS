@@ -1,0 +1,39 @@
+---
+title: "The Evolution of Data Science"
+author: "R. C. Alvarado"
+format: revealjs
+editor: visual
+---
+
+# Introduction
+
+- How many in the audience have a degree in data science?
+- Why do we use the category "data science" today?
+- HRB 2012
+
+# Show Graph
+
+# Rise of DS Programs
+
+# 2008 &mdash; 2012
+
+**2008**
+
+- 10th anniversary of Google
+- Cheryl Sandberg brings Google's wildly successful business model to Facebook
+- _Nature_ and _Science_ both have commemorative issues on Google as a paradigm for science 
+- Chris Anderson's declares the end of theory
+- Jeff Hamerbacher borrows the category of "data scientist" from science
+- Hal Varian dubs statistics the sexiest Job of the 21st century
+
+**2009**
+
+- Nathan Yau corrects Varian
+
+
+# From Data Deluge to Big Data
+
+
+
+
+
